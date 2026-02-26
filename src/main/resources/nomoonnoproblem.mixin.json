@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.protonmail.hallowfiend.nomoonnoproblem.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "nomoonnoproblem.refmap.json",
+  "mixins": [
+    "NecroturgyRitualTypeMixin"
+  ],
+  "client": [],
+  "server": []
+}
