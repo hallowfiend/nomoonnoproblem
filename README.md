@@ -1,0 +1,5 @@
+The Necroturgy ritual from Goety requires sculk blocks, non-wooden slabs, flower pots, and darkness. A logical restriction, yes. Except that darkness means *nighttime* darkness specifically, and the ritual cannot be performed in dimensions with no skylight.
+
+This mod is a simple mixin which changes that check to be true if the skylight is below a certain value OR if the dimension doesn't have skylight. Nether and Ender necromancers for the win.
+
+Yes, I did basically learn Minecraft modding for the express purpose of fixing this one issue I had with Goety. And yes, I know I could've just built a necroturgic altar setup in the Overworld, but I could accept that for the Sky or Storm ritual types. The fact Goety doesn't let you summon undead servants in the dimension filled with skeletons and zombified piglins specifically felt like it needed fixing.
