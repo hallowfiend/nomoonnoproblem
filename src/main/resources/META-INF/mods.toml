@@ -6,9 +6,9 @@ modId="nomoonnoproblem"
 version="1.0"
 displayName="No Moon, No Problem (Goety Necroturgy Mixin)"
 #displayURL="https://change.me.to.your.mods.homepage.example.invalid/" #optional
-#logoFile="nomoonnoproblem.png" #optional
+logoFile="Moon_Phases.gif"
 authors="hallowfiend"
-description='''Goety's Necroturgy ritual has a nighttime restriction. This is fine, but it also means that ritual type cannot be done in dimensions which don't have the *concept* of nighttime, such as the Nether. This one-mixin mod changes that.'''
+description='''Fixes Goety's Necroturgy ritual to work in dimensions where the concept of moon and sun do not apply'''
 [[dependencies.nomoonnoproblem]]
     modId="forge"
     mandatory=true
